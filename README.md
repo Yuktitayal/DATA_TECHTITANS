@@ -1,9 +1,8 @@
-# DATA_TECHTITANS
-Self analysis of mental health model
-**Mental Health Prediction Model**
-📌 Overview
+# Mental Health Prediction Model
+Overview
+<br>
 This project is a Self-Analysis Mental Health Prediction Model that predicts possible mental health conditions based on user-provided symptoms. The model uses Machine Learning to classify mental health conditions and provides explanations for predictions.
-
+<br>
 🚀 Features
 ✔ Predicts mental health conditions based on symptoms.
 ✔ Uses Multi-Class or Multi-Label Classification.
