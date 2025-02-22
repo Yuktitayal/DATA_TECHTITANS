@@ -24,11 +24,11 @@ This project is a Self-Analysis Mental Health Prediction Model that predicts pos
 - 📜 app.py # Streamlit UI for the model 
 - 📜 data_cleaning.py # Data preprocessing & cleaning script 
 - 📜 requirements.txt # Required Python packages.
-- 📜 README.md # Project Documentation
-│── 📁 data  
+- 📜 README.md # Project Documentation<br>
+ 📁 data <br>
     - dataset.csv    
-    - cleaned_mental_health_data.csv  
-│── 📁 models  
+    - cleaned_mental_health_data.csv  <br>
+ 📁 models <br>
     - mental_health_model.pkl  
     - scaler.pkl # StandardScaler  
     - condtion_mapping.pkl #For label mappings 
