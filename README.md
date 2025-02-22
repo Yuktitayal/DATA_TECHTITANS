@@ -26,8 +26,8 @@ This project is a Self-Analysis Mental Health Prediction Model that predicts pos
 - 📜 requirements.txt # Required Python packages.
 - 📜 README.md # Project Documentation
 │── 📁 data  
-    - mental_health_dataset.csv    
-    -  cleaned_mental_health_data.csv  
+    - dataset.csv    
+    - cleaned_mental_health_data.csv  
 │── 📁 models  
     - mental_health_model.pkl  
     - scaler.pkl # StandardScaler  
